@@ -2,29 +2,25 @@
 https://www.facebook.com/autostreet.lk
 
 
-##### Introduction
+### Introduction
 sdsdsds
 
-<br/>
 
-#### Developer Contact
-######Chathuranga Tennakoon 
+### Developer Contact
+####Chathuranga Tennakoon 
 chathurangat@gmail.com <br/>
 https://www.linkedin.com/in/chathurangatennakoon
 
 
-<br/>
-<br/>
 
 #### Development  Architecture
-##### Backend
+#### Backend
 Backend is completely developed based on micro-services architecture with 8+ micro-services with Spring Cloud and Netflix stack.
 **Docker** has been used for the container based development. 
 
-##### Frontend
+#### Frontend
 Frontend is ***ReactJs*** and ***Redux*** based web application.
 
-<br/>
 
 ##### Technologies
 ###### The following technologies has been used for the development.
