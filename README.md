@@ -7,8 +7,7 @@ sdsdsds
 
 
 ### Developer Contact
-Chathuranga Tennakoon 
-
+Chathuranga Tennakoon <br/>
 chathurangat@gmail.com 
 https://www.linkedin.com/in/chathurangatennakoon
 
